@@ -1,3 +1,7 @@
+//Guessing Game C++
+//This is a game where you guess a number and the program tells you whether your guessed number is too high or too low. This repeats until you guess the random number, and then prints out your # of guesses.
+//Alex Cui 9/2/2025
+//RULES: No global variables, No Strings, Include iostream not stdio (use new/delete instead of malloc/free)
 #include <iostream>
 #include <cstdlib>
 using namespace std;
